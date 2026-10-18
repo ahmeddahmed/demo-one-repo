@@ -2,4 +2,6 @@
 
 just some Description on the project.
 
-line not recommended!!
+  first learn dev tools
+  second learn dev repo 
+  END
