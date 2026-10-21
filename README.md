@@ -2,7 +2,7 @@
 
 just some Description on the project.
 
-  second learn dev repo 
+second learn dev repo
 
 # github is
 
